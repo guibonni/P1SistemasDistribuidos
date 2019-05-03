@@ -1,0 +1,3 @@
+Qual dos exemplos (RMI ou REST) utiliza um servidor de aplicação?
+
+Apenas o REST, pois ele se trata de uma aplicação web que precisa de um servidor de aplicação para funcionar (no meu caso foi utilizado o Apache). O RMI é uma aplicação que roda diretamente em alguma máquina que possua Java, portanto não precisa de um servidor de aplicação.
